@@ -1,0 +1,88 @@
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Barkod ve Envanter Sayım.exe.config
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Barkod ve Envanter Sayım.exe
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Barkod ve Envanter Sayım.pdb
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Properties.Resources.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.exe
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.pdb
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.mainForm.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Renci.SshNet.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Buffers.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Memory.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Zstandard.Net.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\MySql.Data.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\Renci.SshNet.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Buffers.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Memory.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.csproj.CopyComplete
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.AddProductForm.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.SettingsForm.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\BarcodeStandard.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.InventoryForm.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Forms.DeleteProductForm.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Forms.EditProductForm.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.CreateProductForm.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Forms.TurnoverForm.resources
+C:\Users\HP\source\repos\Barkod ve Envanter Sayım\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Forms.ReadReceiptForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Barkod ve Envanter Sayım.exe.config
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Barkod ve Envanter Sayım.exe
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Barkod ve Envanter Sayım.pdb
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\BarcodeStandard.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Google.Protobuf.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\MySql.Data.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Renci.SshNet.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Buffers.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Memory.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Zstandard.Net.dll
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Google.Protobuf.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\MySql.Data.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\Renci.SshNet.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Buffers.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Memory.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.csprojAssemblyReference.cache
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.AddProductForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.CreateProductForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Forms.DeleteProductForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Forms.EditProductForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.InventoryForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Forms.ReadReceiptForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Forms.TurnoverForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.mainForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.Properties.Resources.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod_ve_Envanter_Sayım.SettingsForm.resources
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.csproj.GenerateResource.cache
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.csproj.CoreCompileInputs.cache
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.csproj.CopyComplete
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.exe
+C:\Users\Mali\Source\Repos\malicankaya\barcode\Barkod ve Envanter Sayım\obj\Debug\Barkod ve Envanter Sayım.pdb
